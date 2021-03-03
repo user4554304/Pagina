@@ -1,0 +1,26 @@
+#hola {
+  color:white;
+  background-color: blue;
+  border-radius: 15px;
+}
+
+*{
+	background-color: #F50087;
+}
+
+h1{
+  text-align: center;
+}
+form {
+	border-spacing:unset;
+	text-align: center;
+}
+img {
+	float: left;
+}
+a
+{
+	background-color: white;
+	border-color: #ea899a;
+	margin: center;
+}
